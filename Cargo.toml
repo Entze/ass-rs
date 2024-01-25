@@ -1,8 +1,10 @@
-[package]
-name = "ass-rs"
-version = "0.0.0"
-edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
+
+[package]
+authors = ["Lukas Grassauer <lukas@grassauer.eu>"]
+description = "An assistant for mundane tasks."
+edition = "2021"
+license = "MIT"
+name = "ass-rs"
+readme = "README.md"
+version = "0.0.0"
